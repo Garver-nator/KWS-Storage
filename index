@@ -10,17 +10,25 @@ USF Computer Club
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
 
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Scheuber Storage</title>
-<link rel="stylesheet" href="stylesheet.css">
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->	
+<!-- this will fix compatibility in browsers IE 8 and older to recognize HTML5 tags -->
 <!--[if lt IE 9]>
-<script src=" http://html5shim.googlecode.com/svn/trunk/html5.js ">
-</script>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <![endif]-->
+
+<title>Scheuber Storage</title>
+
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+
+
+
+
+
+</body>
+</html>
