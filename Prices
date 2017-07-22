@@ -1,0 +1,112 @@
+<!--
+Derek Dailey
+Michael Garver
+Zach Watts
+
+USF Computer Club
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- this will fix compatibility in browsers IE 8 and older to recognize HTML5 tags -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+
+		<title>Scheuber Storage</title>
+
+		<link rel="stylesheet" href="stylesheet.css">
+	</head>
+
+	<body>
+
+		<header>
+			<h1> K.W.S. Storage </h1>
+			<nav> 
+				<UL> 
+					<LI><a href="Home.html"> Home </a></LI> 
+					<LI><a href="Prices.html"> Price </a></LI> 
+				</UL> 
+			</nav>
+		</header>
+
+		<aside>
+			<p>K.W.S. Storage</p>
+			<p>500 w prairie</p> 
+			<p>Odell il 60460</p>
+			<p>easy access off I-55</p>
+			<p>open 24/7 365 days a year</p>
+			<p>10x6 thru 10x30 units available for personal or business use</p>
+			<p>Serving the local area for 15 yrs</p>
+			<p>815-791-3589</p>
+		</aside>
+
+		<main>
+			<table>
+				<tr>
+					<th>Size</th>
+					<th>Price</th>
+					<th>This Unit will Hold</th>
+				</tr>
+				
+				<tr>
+					<td>5x6</td>
+					<td>$30.00</td>
+					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+				</tr>
+				
+				<tr>
+					<td>5x6</td>
+					<td>$30.00</td>
+					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+				</tr>
+				
+				<tr>
+					<td>5x6</td>
+					<td>$30.00</td>
+					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+				</tr>
+				
+				<tr>
+					<td>5x6</td>
+					<td>$30.00</td>
+					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+				</tr>
+				
+				<tr>
+					<td>5x6</td>
+					<td>$30.00</td>
+					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+				</tr>
+				
+				<tr>
+					<td>5x6</td>
+					<td>$30.00</td>
+					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+				</tr>
+				
+			</table>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+				Mauris convallis elit vitae ex placerat, ac sollicitudin diam dignissim. Phasellus ut vulputate diam, placerat vulputate tortor. 
+				Mauris sed fringilla erat. Fusce fringilla, turpis non accumsan lobortis, augue nibh vehicula tortor, quis aliquet dolor sem id turpis.
+				Nullam eu urna faucibus, posuere tortor sit amet, sagittis eros. Vestibulum venenatis odio quis enim tristique, non commodo erat pharetra. 
+				In hac habitasse platea dictumst. Donec et porta enim, ac lobortis mi. Donec sed enim a ante tempus dignissim non vitae purus. 
+				Duis at tincidunt metus. Donec ultricies euismod velit, vitae molestie ligula consectetur condimentum. 
+				Morbi pretium augue id turpis laoreet consequat. 
+			</p>
+		</main>
+
+		<footer>
+			<address>500 w prairie</address>
+			<address>Odell il 60460</address>
+			<a href="815-791-3589"> 815-791-3589</a>
+			<a href="generic@somewebsitehere.com">generic@somewebsitehere.com</a>
+		</footer>
+	</body>
+</html>
