@@ -10,68 +10,74 @@ USF Computer Club
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- this will fix compatibility in browsers IE 8 and older to recognize HTML5 tags -->
-<!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- this will fix compatibility in browsers IE 8 and older to recognize HTML5 tags -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
 
-<title>Scheuber Storage</title>
+		<title>Scheuber Storage</title>
 
-<link rel="stylesheet" href="stylesheet.css">
-</head>
+		<link rel="stylesheet" href="stylesheet.css">
+	</head>
 
-<body>
+	<body>
 
-<header>
-<h1> Scheuber Meme Dream Cave </h1>
-</header>
+		<header>
+			<h1> K.W.S. Storage </h1>
+			<nav> 
+				<UL> 
+					<LI><a href="Home.html"> Home </a></LI> 
+					<LI><a href="Prices.html"> Price </a></LI> 
+				</UL> 
+			</nav>
+		</header>
 
-<aside>
-<p>K.W.S. Storage</p>
-<p>500 w prairie</p> 
-<p>Odell il 60460</p>
-<p>easy access off I-55</p>
-<p>open 24/7 365 days a year</p>
-<p>10x6 thru 10x30 units available for personal or business use</p>
-<p>Serving the local area for 15 yrs</p>
-<p>815-791-3589</p>
-</aside>
+		<aside>
+			<p>K.W.S. Storage</p>
+			<p>500 w prairie</p> 
+			<p>Odell il 60460</p>
+			<p>easy access off I-55</p>
+			<p>open 24/7 365 days a year</p>
+			<p>10x6 thru 10x30 units available for personal or business use</p>
+			<p>Serving the local area for 15 yrs</p>
+			<p>815-791-3589</p>
+		</aside>
 
-<main>
-<img src="ScheuberStorage.JPG" alt="Picture of K.W.S. Storage Building"> </img>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac erat eget dolor cursus vulputate. 
-Morbi vitae orci semper, gravida nulla a, venenatis leo. In nulla dolor, tincidunt non dui eget, vestibulum fermentum lorem. 
-Suspendisse in sem pretium, aliquet augue id, commodo felis. Proin lobortis semper leo non finibus. 
-Praesent accumsan molestie quam, in convallis odio viverra sit amet. Nulla lacinia at neque sit amet tincidunt. 
-Vestibulum ullamcorper fringilla massa ac fringilla. Proin dignissim odio eu lectus convallis consectetur. 
-Praesent fringilla mauris quis felis accumsan, in suscipit augue lobortis. Sed at interdum purus. 
-Quisque vehicula diam lacus, ac iaculis lectus dapibus eu. Ut non mi non tortor molestie congue. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+		<main>
+			<img src="ScheuberStorage.JPG" alt="Picture of K.W.S. Storage Building"> </img>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac erat eget dolor cursus vulputate. 
+			Morbi vitae orci semper, gravida nulla a, venenatis leo. In nulla dolor, tincidunt non dui eget, vestibulum fermentum lorem. 
+			Suspendisse in sem pretium, aliquet augue id, commodo felis. Proin lobortis semper leo non finibus. 
+			Praesent accumsan molestie quam, in convallis odio viverra sit amet. Nulla lacinia at neque sit amet tincidunt. 
+			Vestibulum ullamcorper fringilla massa ac fringilla. Proin dignissim odio eu lectus convallis consectetur. 
+			Praesent fringilla mauris quis felis accumsan, in suscipit augue lobortis. Sed at interdum purus. 
+			Quisque vehicula diam lacus, ac iaculis lectus dapibus eu. Ut non mi non tortor molestie congue. 
+			Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Phasellus laoreet, lectus sed consequat facilisis, nibh nunc porta augue, non laoreet neque libero in orci. 
-Pellentesque neque diam, faucibus eget convallis sit amet, condimentum non risus. 
-Aliquam eleifend nulla a magna ultricies, a fringilla mauris consequat. Nunc ultrices sem ut mauris semper, eu vulputate odio iaculis. 
-Quisque a auctor magna. Praesent sagittis magna vel nunc tempor consequat. Quisque vel felis laoreet enim elementum eleifend sed et nulla. 
-Nam cursus ornare pretium. Donec imperdiet iaculis eleifend. In aliquam bibendum rutrum. Sed varius fringilla turpis vitae ultricies. 
-Aliquam in sapien in nisi finibus vestibulum vitae quis erat. Pellentesque viverra lorem nec ultrices ullamcorper. 
-Curabitur consectetur est ligula, a venenatis mauris placerat ac.
+			Phasellus laoreet, lectus sed consequat facilisis, nibh nunc porta augue, non laoreet neque libero in orci. 
+			Pellentesque neque diam, faucibus eget convallis sit amet, condimentum non risus. 
+			Aliquam eleifend nulla a magna ultricies, a fringilla mauris consequat. Nunc ultrices sem ut mauris semper, eu vulputate odio iaculis. 
+			Quisque a auctor magna. Praesent sagittis magna vel nunc tempor consequat. Quisque vel felis laoreet enim elementum eleifend sed et nulla. 
+			Nam cursus ornare pretium. Donec imperdiet iaculis eleifend. In aliquam bibendum rutrum. Sed varius fringilla turpis vitae ultricies. 
+			Aliquam in sapien in nisi finibus vestibulum vitae quis erat. Pellentesque viverra lorem nec ultrices ullamcorper. 
+			Curabitur consectetur est ligula, a venenatis mauris placerat ac.
 
-Sed pretium auctor nulla. Quisque sed lectus orci. Nunc tristique turpis ac quam pretium, eget consequat sem tristique. 
-Mauris posuere, nisi at auctor consectetur, dolor nisl volutpat eros, in ultrices mauris elit sed neque. 
-Integer egestas nec lorem eget condimentum. Nulla lectus quam, rhoncus a interdum a, efficitur eu lectus. 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc pulvinar tortor aliquam nibh laoreet dignissim. 
-Proin pellentesque quis diam vel luctus. Vestibulum rutrum nibh vitae ultrices euismod. Nam eget tempus lectus. 
-</main>
+			Sed pretium auctor nulla. Quisque sed lectus orci. Nunc tristique turpis ac quam pretium, eget consequat sem tristique. 
+			Mauris posuere, nisi at auctor consectetur, dolor nisl volutpat eros, in ultrices mauris elit sed neque. 
+			Integer egestas nec lorem eget condimentum. Nulla lectus quam, rhoncus a interdum a, efficitur eu lectus. 
+			Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc pulvinar tortor aliquam nibh laoreet dignissim. 
+			Proin pellentesque quis diam vel luctus. Vestibulum rutrum nibh vitae ultrices euismod. Nam eget tempus lectus. 
+		</main>
 
-<footer>
-<address>500 w prairie</address>
-<address>Odell il 60460</address>
-<a href="815-791-3589"> 815-791-3589</a>
-<a href="generic@somewebsitehere.com">generic@somewebsitehere.com</a>
-</footer>
+		<footer>
+			<address>500 w prairie</address>
+			<address>Odell il 60460</address>
+			<a href="815-791-3589"> 815-791-3589</a>
+			<a href="generic@somewebsitehere.com">generic@somewebsitehere.com</a>
+		</footer>
 
-</body>
+	</body>
 </html>
