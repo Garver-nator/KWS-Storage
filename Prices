@@ -24,10 +24,11 @@ USF Computer Club
 	</head>
 
 	<body>
-
+	<div id="wrapper">
+	
 		<header>
 			<h1> K.W.S. Storage </h1>
-			<nav> 
+			<nav id="nav"> 
 				<UL> 
 					<LI><a href="Home.html"> Home </a></LI> 
 					<LI><a href="Prices.html"> Price </a></LI> 
@@ -108,5 +109,6 @@ USF Computer Club
 			<a href="815-791-3589"> 815-791-3589</a>
 			<a href="generic@somewebsitehere.com">generic@somewebsitehere.com</a>
 		</footer>
+	</div>
 	</body>
 </html>
