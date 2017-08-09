@@ -123,3 +123,12 @@ table
 {
 	width:95%;
 }
+
+.italic {
+	font-style: italic;
+}
+
+iframe {
+	width: 80%;
+	height: 50%;
+}
