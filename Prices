@@ -15,10 +15,10 @@ USF Computer Club
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- this will fix compatibility in browsers IE 8 and older to recognize HTML5 tags -->
 		<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<![endif]-->
 
-		<title>K.W.S. Storage</title>
+		<title>Scheuber Storage</title>
 
 		<link rel="stylesheet" href="stylesheet.css">
 	</head>
@@ -27,107 +27,108 @@ USF Computer Club
 	<div id="wrapper">
 	
 		<header>
-			<h1>K.W.S. Storage</h1>
+			<h1> K.W.S. Storage </h1>
 			<nav id="nav"> 
 				<UL> 
-					<LI><a href="index.html">Home</a></LI> 
-					<LI><a href="prices.html">Prices</a></LI> 
+					<LI><a href="Home.html"> Home </a></LI> 
+					<LI><a href="Prices.html"> Price </a></LI> 
 				</UL> 
 			</nav>
 		</header>
 
-		<main>
+		<aside>
+			<p>About K.W.S. Storage:</p>
+			<hr>
+			<p>500 W Prairie St.</p> 
+			<p>Odell, IL 60460</p>
+			<p>Quick, simple access off I-55</p>
+			<p>Open 24/7 365 days a year</p>
+			<p>Storage Unit sizes ranging from 10x6 up to 10x30</p>
+			<p>Serving the local area for 15 years</p>
+			<p>Phone: 815-791-3589</p>
+			<p>Pay by Cash or Check</p>
+		</aside>
 		
-			<aside>
-				<p>K.W.S. Storage</p>
-				<p>500 W. Prairie Street</p> 
-				<p>Odell, Il 60460</p>
-					<br>
-				<p>easy access off I-55</p>
-					<a href="https://www.google.com/maps/dir//500+W+Prairie+St,+Odell,+IL+60460/@41.006352,-88.5332213,16z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x880c144640c34415:0x45e99f28ad4d7e2b!2m2!1d-88.5288439!2d41.0063521!3e0"> 
-						&#9951; Directions</a>
-						<br>
-						<br>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d6021.727798902789!2d-88.53322127493063!3d41.006352017203696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x880c144640c34415%3A0x45e99f28ad4d7e2b!2s500+W+Prairie+St%2C+Odell%2C+IL+60460!3m2!1d41.0063521!2d-88.5288439!5e0!3m2!1sen!2sus!4v1501197033691" 
-				frameborder="0" style="border:0" allowfullscreen></iframe>
-				<p>open 24/7 <br>
-				365 days a year</p>
-					<br>
-				<p>10x6 thru 10x30 units available for personal or business use</p>
-				<p class="italic">Serving the local area for 15 years</p>
-				<a href="815-791-3589">&#9990; (815)791-3589</a>
-			</aside>
-
 		<div ID="mainDIV">
+		<main>
 			<table>
 				<tr>
 					<th>Size</th>
-					<th>Price</th>
-					<th>This Unit will Hold</th>
+					<th>Price (monthly)</th>
+					<th>Details About this Unit</th>
 				</tr>
 				
 				<tr>
-					<td>5x6</td>
-					<td>$30.00</td>
-					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+					<td>10x6</td>
+					<td>$35.00</td>
+					<td>60 sq. ft. Can Hold boxes, seasonal items, and paperwork.</td>
 				</tr>
 				
 				<tr>
-					<td>5x6</td>
-					<td>$30.00</td>
-					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+					<td>10x10</td>
+					<td>$50.00</td>
+					<td>100 sq. ft. In addition to lower tiers, can hold outdoor furniture and lawn care items.</td>
 				</tr>
 				
 				<tr>
-					<td>5x6</td>
-					<td>$30.00</td>
-					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+					<td>10x15</td>
+					<td>$60.00</td>
+					<td>150 sq. ft. In addition to lower tiers, can hold lawn mowers, dirt bikes, and other small vehicles.</td>
 				</tr>
 				
 				<tr>
-					<td>5x6</td>
-					<td>$30.00</td>
-					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+					<td>10x20</td>
+					<td>$70.00</td>
+					<td>200 sq. ft. In addition to lower tiers, can hold ATVs, Tractors, and other medium-sized vehicles.</td>
 				</tr>
 				
 				<tr>
-					<td>5x6</td>
-					<td>$30.00</td>
-					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+					<td>10x25</td>
+					<td>$80.00</td>
+					<td>250 sq. ft. In addition to lower tiers, holds trailers, boats, and other large-sized vehicles.</td>
 				</tr>
 				
 				<tr>
-					<td>5x6</td>
-					<td>$30.00</td>
-					<td>Small furniture or boxes, clothing, seasonal items, business records</td>
+					<td>10x30</td>
+					<td>$95.00</td>
+					<td>300 sq. ft. Also, has 2 8x9 overheads, for access on both sides or drive-thru.</td>
 				</tr>
 				
 			</table>
-			
-			<p>	Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-				Mauris convallis elit vitae ex placerat, ac sollicitudin diam dignissim. Phasellus ut vulputate diam, placerat vulputate tortor. 
-				Mauris sed fringilla erat. Fusce fringilla, turpis non accumsan lobortis, augue nibh vehicula tortor, quis aliquet dolor sem id turpis.
-				Nullam eu urna faucibus, posuere tortor sit amet, sagittis eros. Vestibulum venenatis odio quis enim tristique, non commodo erat pharetra. 
-				In hac habitasse platea dictumst. Donec et porta enim, ac lobortis mi. Donec sed enim a ante tempus dignissim non vitae purus. 
-				Duis at tincidunt metus. Donec ultricies euismod velit, vitae molestie ligula consectetur condimentum. 
-				Morbi pretium augue id turpis laoreet consequat.</p>
-			
-		</div>
-		<!-- end mainDIV -->
-		
+			<p>
+				Payment rates are monthly. Please be prepared to accomodate for this condition.
+			</p>
+			<p>
+				Additionally, K.W.S. Storage only accepts payment via cash, or check.
+			</p>
+			<p>
+				If you have any questions, comments, or concerns about our pricing policies or storage units, 
+				please call or text us at the number 815-791-3589.
+			</p>
+			<p>
+				Thank you very much.
+			</p>
+			<br>
 		</main>
-
+		</div>
+		
+		
 		<footer>
 			<address>
-			500 w prairie<br>
-			Odell il 60460<br>
-			<a href="815-791-3589">&#9990; (815)791-3589</a><br>
-			<a href="generic@somewebsitehere.com">&#9993; generic@somewebsitehere.com</a><br>
+				500 W Prairie St.
+			</address>
+			<address>
+				Odell, IL 60460
+			</address>
+			<br>
+			<address>
+				Call or Text us at:
+				
+				<a href="815-791-3589">
+					815-791-3589
+				</a>
 			</address>
 		</footer>
-		
 	</div>
-	<!-- end wrapper div -->
-	
 	</body>
 </html>
