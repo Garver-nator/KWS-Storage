@@ -48,7 +48,8 @@ USF Computer Club
 			<p>Phone: 815-791-3589</p>
 			<p>Pay by Cash or Check</p>
 		</aside>
-
+		
+		<div ID="mainDIV">
 		<main>
 			<table>
 				<tr>
@@ -108,10 +109,10 @@ USF Computer Club
 				Thank you very much.
 			</p>
 			<br>
-			<br>
-			<br>
 		</main>
-
+		</div>
+		
+		
 		<footer>
 			<address>
 				500 W Prairie St.
