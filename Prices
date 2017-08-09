@@ -15,10 +15,10 @@ USF Computer Club
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- this will fix compatibility in browsers IE 8 and older to recognize HTML5 tags -->
 		<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<![endif]-->
 
-		<title>Scheuber Storage</title>
+		<title>K.W.S. Storage</title>
 
 		<link rel="stylesheet" href="stylesheet.css">
 	</head>
@@ -27,27 +27,38 @@ USF Computer Club
 	<div id="wrapper">
 	
 		<header>
-			<h1> K.W.S. Storage </h1>
+			<h1>K.W.S. Storage</h1>
 			<nav id="nav"> 
 				<UL> 
-					<LI><a href="Home.html"> Home </a></LI> 
-					<LI><a href="Prices.html"> Price </a></LI> 
+					<LI><a href="index.html">Home</a></LI> 
+					<LI><a href="prices.html">Prices</a></LI> 
 				</UL> 
 			</nav>
 		</header>
 
-		<aside>
-			<p>K.W.S. Storage</p>
-			<p>500 w prairie</p> 
-			<p>Odell il 60460</p>
-			<p>easy access off I-55</p>
-			<p>open 24/7 365 days a year</p>
-			<p>10x6 thru 10x30 units available for personal or business use</p>
-			<p>Serving the local area for 15 yrs</p>
-			<p>815-791-3589</p>
-		</aside>
-
 		<main>
+		
+			<aside>
+				<p>K.W.S. Storage</p>
+				<p>500 W. Prairie Street</p> 
+				<p>Odell, Il 60460</p>
+					<br>
+				<p>easy access off I-55</p>
+					<a href="https://www.google.com/maps/dir//500+W+Prairie+St,+Odell,+IL+60460/@41.006352,-88.5332213,16z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x880c144640c34415:0x45e99f28ad4d7e2b!2m2!1d-88.5288439!2d41.0063521!3e0"> 
+						&#9951; Directions</a>
+						<br>
+						<br>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d6021.727798902789!2d-88.53322127493063!3d41.006352017203696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x880c144640c34415%3A0x45e99f28ad4d7e2b!2s500+W+Prairie+St%2C+Odell%2C+IL+60460!3m2!1d41.0063521!2d-88.5288439!5e0!3m2!1sen!2sus!4v1501197033691" 
+				frameborder="0" style="border:0" allowfullscreen></iframe>
+				<p>open 24/7 <br>
+				365 days a year</p>
+					<br>
+				<p>10x6 thru 10x30 units available for personal or business use</p>
+				<p class="italic">Serving the local area for 15 years</p>
+				<a href="815-791-3589">&#9990; (815)791-3589</a>
+			</aside>
+
+		<div ID="mainDIV">
 			<table>
 				<tr>
 					<th>Size</th>
@@ -92,23 +103,31 @@ USF Computer Club
 				</tr>
 				
 			</table>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+			
+			<p>	Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 				Mauris convallis elit vitae ex placerat, ac sollicitudin diam dignissim. Phasellus ut vulputate diam, placerat vulputate tortor. 
 				Mauris sed fringilla erat. Fusce fringilla, turpis non accumsan lobortis, augue nibh vehicula tortor, quis aliquet dolor sem id turpis.
 				Nullam eu urna faucibus, posuere tortor sit amet, sagittis eros. Vestibulum venenatis odio quis enim tristique, non commodo erat pharetra. 
 				In hac habitasse platea dictumst. Donec et porta enim, ac lobortis mi. Donec sed enim a ante tempus dignissim non vitae purus. 
 				Duis at tincidunt metus. Donec ultricies euismod velit, vitae molestie ligula consectetur condimentum. 
-				Morbi pretium augue id turpis laoreet consequat. 
-			</p>
+				Morbi pretium augue id turpis laoreet consequat.</p>
+			
+		</div>
+		<!-- end mainDIV -->
+		
 		</main>
 
 		<footer>
-			<address>500 w prairie</address>
-			<address>Odell il 60460</address>
-			<a href="815-791-3589"> 815-791-3589</a>
-			<a href="generic@somewebsitehere.com">generic@somewebsitehere.com</a>
+			<address>
+			500 w prairie<br>
+			Odell il 60460<br>
+			<a href="815-791-3589">&#9990; (815)791-3589</a><br>
+			<a href="generic@somewebsitehere.com">&#9993; generic@somewebsitehere.com</a><br>
+			</address>
 		</footer>
+		
 	</div>
+	<!-- end wrapper div -->
+	
 	</body>
 </html>
