@@ -50,6 +50,7 @@ USF Computer Club
 		</aside>
 
 		<main>
+		<div ID="pricesDIV">
 			<table>
 				<tr>
 					<th>Size</th>
@@ -94,6 +95,7 @@ USF Computer Club
 				</tr>
 				
 			</table>
+			
 			<p>
 				Payment rates are monthly. Please be prepared to accomodate for this condition.
 			</p>
@@ -107,20 +109,18 @@ USF Computer Club
 			<p>
 				Thank you very much.
 			</p>
-			<br>
-			<br>
-			<br>
+			
+		</div>
 		</main>
 
 		<footer>
+		
 			<address>
 				500 W Prairie St.
-			</address>
-			<address>
+			
 				Odell, IL 60460
-			</address>
+			
 			<br>
-			<address>
 				Call or Text us at:
 				
 				<a href="815-791-3589">
