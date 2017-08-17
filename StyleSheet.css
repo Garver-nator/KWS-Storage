@@ -71,7 +71,7 @@ aside
 	color: white;
 	margin: 0;
 	width: 15.05%;
-	height: 390px;
+	height: 398px;
 	float: left;
 	border: 4px solid #999;
 	padding-left:10px;
@@ -81,17 +81,31 @@ aside
 main
 {
 	width: 100%;
-	height: 390px;
+	
 }
 
-#mainDIV 
-{
+#homeMainDIV 
+{	
 	border: 4px solid #999;
+	height: 398px;
 	width: 82.45%;
 	margin-left: 17%;
 }
 
-#mainDIV p
+#homeMainDIV p
+{
+	padding: 5px;
+}
+
+#pricesMainDIV
+{
+	border: 4px solid #999;
+	height: 398px;
+	width: 82.45%;
+	margin-left: 17%;
+}
+
+#pricesMainDIV p
 {
 	padding: 5px;
 }
@@ -124,4 +138,5 @@ table
 #wrapper
 {
 	width:95%;
+	height: 614px;
 }
